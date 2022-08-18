@@ -1,0 +1,81 @@
+.lContiner {
+ display: flex;
+ justify-content: center;
+ margin-top: 10px;
+}
+.lWrapper {
+width: 100%;
+max-width: 1024px;
+display: flex;
+
+ gap: 20px; 
+}
+.lsearch {
+  flex:1;
+  background-color: #febb02;
+  
+  padding: 8px;
+  height: max-content ;
+  position: sticky;
+  top: 10px;
+  border-radius: 10px;
+
+
+}
+.lsTitle{
+  font-size: 20px;
+  color: #555;
+  margin-bottom: 10px;
+
+}
+.lsItem{
+  display: flex;
+  flex-direction: column;
+  gap:5px;
+  margin-bottom: 10px;
+}
+.lsItem>label{
+  font-size: 14px;
+}
+.lsItem>input{
+  border: none;
+  height: 30px;
+  padding: 5px;
+  border-radius: 4px;
+}
+.lsItem>span{
+background-color: white;
+color: #555;
+height: 30px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+}
+.lsoption{
+  padding: 10px;
+}
+.lsOptionItem{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 6px;
+  font-size: 14px;
+
+}
+
+.lsOptionItem>input{
+width: 50px;
+}
+.btnsearch{
+  padding: 10px;
+  background-color: #0071c2;
+  color: white;
+  border: none;
+  width: 100%;
+  font-weight: 500;
+  cursor: pointer;
+}
+.lresult {
+  flex:3;
+  /* background-color: teal; */
+}

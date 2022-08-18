@@ -1,0 +1,29 @@
+.pList{
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    /* flex-direction: row; */
+    /* justify-content: space-between; */
+    gap: 15px;
+
+}
+.PItem{
+flex: 1;
+   
+    /* color: lightgray; */
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.PImg{
+    height: 175px;
+    width: 100%; 
+    object-fit: cover;
+}
+.pTitle>h1 {
+font-size: 18px;
+}
+.pTitle>h2{
+    font-size: 12px;
+    font-weight: 300;
+}
