@@ -1,3 +1,7 @@
+# What is this Project about?
+ This project its a (https://Boooking.com) clone 
+ I use only css to build it 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
