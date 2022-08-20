@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Header from "../../Components/Header/Header";
 import Navbar from "../../Components/Navbar/Navbar";
 import styles from "./HotelList.css";
-import { useLocation } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import { format } from "date-fns";
 import { DateRange } from "react-date-range";
 import SearchItem from "../../Components/SearchItem/SearchItem";
@@ -86,10 +86,18 @@ const HotelList = () => {
             <button className="btnsearch">Search</button>
           </div>
           <div className="lresult">
+            <Link to={"/hotel"}>
             <SearchItem/>
+            </Link>
+            <Link to={"/hotel"}>
             <SearchItem/>
+            </Link>
+            <Link to={"/hotel"}>
             <SearchItem/>
+            </Link>
+            <Link to={"/hotel"}>
             <SearchItem/>
+            </Link>
           </div>
 
         </div>
