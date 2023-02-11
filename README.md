@@ -1,12 +1,13 @@
-# What is this Project about?
+## What is this Project about?
  This project its a Boooking.com clone 
  I use React to build it and for styling I only use Css.
  
- # How can I run it on my own vscode ?
+ ## How can I run it on my own vscode ?
 just type npm i in your terminal then npm start and that's it, enjoy:)
 
-# Where is your site?
-[![chain](https://via.placeholder.com/15x15)](https://bilalyounes.github.io/BookingApp/) Preview
+## Where is your site?
+[![Nice Icon](https://icon-library.net/images/nice-icon/nice-icon-4.jpg)](https://bilalyounes.github.io/BookingApp/) Preview
+
 
 
 
