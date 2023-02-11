@@ -6,6 +6,7 @@
 just type npm i in your terminal then npm start and that's it, enjoy:)
 
 # Where is your site?
-[Privew](https://bilalyounes.github.io/BookingApp/)
+[![chain](https://via.placeholder.com/15x15)](https://bilalyounes.github.io/BookingApp/) Preview
+
 
 
