@@ -6,7 +6,7 @@
 just type npm i in your terminal then npm start and that's it, enjoy:)
 
 ## Where is your site?
-[![Star Icon](https://icon-library.net/images/star-icon/star-icon-8.jpg)](https://bilalyounes.github.io/BookingApp/) Preview
+[Preview](https://bilalyounes.github.io/BookingApp/)
 
 
 
